@@ -1,4 +1,4 @@
-# androidproject-musicplayer
+# android-project-musicplayer
 Music Player 
 
 
