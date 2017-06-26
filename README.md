@@ -2,6 +2,10 @@
 Music Player 
 
 
-![alt text](https://github.com/inderjeetofficial/androidproject-musicplayer/blob/master/Screenshot_1493264173.png
- width="400" height="700")
+<p align="center">
+  <img src="https://github.com/inderjeetofficial/androidproject-musicplayer/blob/master/Screenshot_1493264173.png" width="350" height="700"/>
+ 
+</p>
+
+
 
